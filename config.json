@@ -1,0 +1,15 @@
+{
+    "chromeLaunchConfig": {
+        "args": [
+            "--no-sandbox",
+            "--disable-setuid-sandbox",
+            "--disable-dev-shm-usage"
+        ]
+    },
+    "reporter": "cli",
+    "threshold": 6,
+    "actions": [
+        "navigate to $URL",
+        "wait for $ThingToHappen"
+    ]
+}

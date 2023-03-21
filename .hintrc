@@ -1,0 +1,12 @@
+{
+    "extends": ["accessibility"],
+    "hints": {
+        "axe/keyboard": ["error", ["tabindex"]],
+        "axe/color": ["error", {
+            "color-contrast": "warning"
+        }],
+        "axe/language": ["error", {
+            "html-has-lang": "off"
+        }]
+    }
+}

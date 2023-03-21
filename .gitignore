@@ -74,13 +74,16 @@ pids
 *.seed
 *.pid.lock
 lib-cov
-coverage
 *.lcov
+coverage
 .nyc_output
+test-out
 .grunt
 bower_components
 .lock-wscript
 build/Release
+allure-results
+.vscode
 node_modules/
 jspm_packages/
 web_modules/
@@ -91,6 +94,7 @@ web_modules/
 .rpt2_cache/
 .rts2_cache_cjs/
 .rts2_cache_es/
+node_modules
 .rts2_cache_umd/
 .node_repl_history
 *.tgz
@@ -99,6 +103,7 @@ web_modules/
 .env.development.local
 .env.test.local
 .env.production.local
+.idea
 .env.local
 .cache
 .parcel-cache
