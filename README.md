@@ -26,18 +26,18 @@ npm run tests
 
 ###### To run UI tests and create Allure reports ->
 ```bash
-npm report
+npm run report
 ```
 
 **_About for run testing on CLI (axe-core) ->_**:
 ```bash
 cd cli
-npm prebuild
-npm test
+npm run prebuild
+npm run test
 ```
 **_You could to views coverage each test ->_**:
 
 ```bash
-npm coverage
+npm run coverage
 ```
 Thanks for visiting us ;))

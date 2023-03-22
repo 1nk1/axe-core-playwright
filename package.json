@@ -1,10 +1,10 @@
 {
   "name": "axe-core",
-  "version": "1.1.5",
+  "version": "4.6.0",
   "main": "index.js",
   "license": "MIT",
   "description": "The project for automation testing opportunities accessibility",
-  "repository": "about:blank",
+  "repository": "https://github.com/1nk1/axe-core-playwright/tree/main",
   "author": "Andrii Peretiatko ® 2023",
   "scripts": {
     "pretest": "tsc --incremental -p tests/tsconfig.json",
@@ -29,6 +29,7 @@
     "@typescript-eslint/types": "5.53.0",
     "allure-commandline": "2.21.0",
     "allure-playwright": "2.0.0",
+    "allure-js-commons": "^2.1.0",
     "axe-cli": "^3.2.1",
     "axe-core": "4.6.3",
     "axe-html-reporter": "2.2.3",
