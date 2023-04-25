@@ -1,8 +1,6 @@
 // mars-main-page.ts
 import { Locator, Page, BrowserContext } from '@playwright/test';
 import { checkA11y } from 'axe-playwright';
-import { analyzePage } from '../../src/utils';
-import testPages from '../../cli/dist/src/lib/axe-test-urls';
 
 export class MainMarsPage {
      readonly page: Page
