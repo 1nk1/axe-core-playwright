@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon May 29 10:59:59 EEST 2023","Mon May 29 11:00:03 EEST 2023","3574","","UI_check_rules_accord_wcag2_doctors_page.spec.ts","Playwright web page accessibility test","","","Check accessibility accord to 'Add new Doctor' button in the current page: [https://ej2.syncfusion.com/showcase/angular/appointmentplanner/#/doctors] => Observing the rules of ['wcag2a', 'wcag2aa', 'wcag2aaa', 'ACT']",""

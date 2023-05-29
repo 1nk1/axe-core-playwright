@@ -1,0 +1,1 @@
+{"version":3,"file":"readJson.js","sourceRoot":"/","sources":["utils/readJson.ts"],"names":[],"mappings":";;AAAA,2BAAkC;AAGlC,MAAM,YAAY,GAAG,KAAK,EAAC,YAAoB,EAAE,EAAE;IAClD,OAAO,MAAM,IAAI,CAAC,KAAK,CAAC,IAAA,iBAAY,EAAC,YAAY,IAAI,iBAAiB,EAAE,MAAM,CAAC,CAAC,CAAC;AAClF,CAAC,CAAA;AAED,kBAAe,YAAY,CAAA"}

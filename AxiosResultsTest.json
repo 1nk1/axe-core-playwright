@@ -7,13 +7,13 @@
     "name": "axe"
   },
   "testEnvironment": {
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0",
     "windowWidth": 1280,
     "windowHeight": 720,
     "orientationAngle": 0,
     "orientationType": "landscape-primary"
   },
-  "timestamp": "2023-04-25T08:28:05.317Z",
+  "timestamp": "2023-05-29T08:00:02.242Z",
   "url": "https://ej2.syncfusion.com/showcase/angular/appointmentplanner/#/doctors",
   "toolOptions": {
     "preload": true,
@@ -3136,7 +3136,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<ejs-sidebar _ngcontent-vvf-c81=\"\" id=\"plannerSiderBar\" class=\"e-control e-sidebar e-lib e-left e-open e-transition e-push\" style=\"width: auto; z-index: 1000;\" tabindex=\"0\">",
+          "html": "<ejs-sidebar _ngcontent-nek-c81=\"\" id=\"plannerSiderBar\" class=\"e-control e-sidebar e-lib e-left e-open e-transition e-push\" style=\"width: auto; z-index: 1000;\" tabindex=\"0\">",
           "target": [
             "#plannerSiderBar"
           ]
@@ -3168,7 +3168,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<p _ngcontent-vvf-c81=\"\" class=\"name\" style=\"margin-top: 16px;\">Jane Doe</p>",
+          "html": "<p _ngcontent-nek-c81=\"\" class=\"name\" style=\"margin-top: 16px;\">Jane Doe</p>",
           "target": [
             "p:nth-child(1)"
           ]
@@ -3200,7 +3200,7 @@
           ],
           "none": [],
           "impact": null,
-          "html": "<main _ngcontent-vvf-c81=\"\" class=\"e-content-animation\" style=\"transform: translateX(0px); margin-left: 243px;\">",
+          "html": "<main _ngcontent-nek-c81=\"\" class=\"e-content-animation\" style=\"transform: translateX(0px); margin-left: 243px;\">",
           "target": [
             "main"
           ]
@@ -3804,7 +3804,7 @@
               "data": null,
               "relatedNodes": [
                 {
-                  "html": "<h1 _ngcontent-vvf-c81=\"\" class=\"clinic-name\"> APPOINTMENT PLANNER</h1>",
+                  "html": "<h1 _ngcontent-nek-c81=\"\" class=\"clinic-name\"> APPOINTMENT PLANNER</h1>",
                   "target": [
                     "h1"
                   ]
@@ -3818,7 +3818,7 @@
               "data": null,
               "relatedNodes": [
                 {
-                  "html": "<main _ngcontent-vvf-c81=\"\" class=\"e-content-animation\" style=\"transform: translateX(0px); margin-left: 243px;\">",
+                  "html": "<main _ngcontent-nek-c81=\"\" class=\"e-content-animation\" style=\"transform: translateX(0px); margin-left: 243px;\">",
                   "target": [
                     "main"
                   ]
@@ -3871,7 +3871,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p _ngcontent-vvf-c81=\"\" class=\"name\" style=\"margin-top: 16px;\">Jane Doe</p>",
+          "html": "<p _ngcontent-nek-c81=\"\" class=\"name\" style=\"margin-top: 16px;\">Jane Doe</p>",
           "target": [
             "p:nth-child(1)"
           ]
@@ -3896,7 +3896,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" title=\"dashboard\" class=\"text\">Dashboard</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" title=\"dashboard\" class=\"text\">Dashboard</span>",
           "target": [
             "span[title=\"dashboard\"]"
           ]
@@ -3921,7 +3921,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" title=\"calendar\" class=\"text\">Schedule</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" title=\"calendar\" class=\"text\">Schedule</span>",
           "target": [
             "span[title=\"calendar\"]"
           ]
@@ -3946,7 +3946,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" title=\"patients\" class=\"text\">Patients</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" title=\"patients\" class=\"text\">Patients</span>",
           "target": [
             "span[title=\"patients\"]"
           ]
@@ -3971,7 +3971,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" title=\"preference\" class=\"text\">Preference</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" title=\"preference\" class=\"text\">Preference</span>",
           "target": [
             "span[title=\"preference\"]"
           ]
@@ -3996,7 +3996,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" title=\"about\" class=\"text\">About</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" title=\"about\" class=\"text\">About</span>",
           "target": [
             "span[title=\"about\"]"
           ]
@@ -5721,7 +5721,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<ejs-sidebar _ngcontent-vvf-c81=\"\" id=\"plannerSiderBar\" class=\"e-control e-sidebar e-lib e-left e-open e-transition e-push\" style=\"width: auto; z-index: 1000;\" tabindex=\"0\">",
+          "html": "<ejs-sidebar _ngcontent-nek-c81=\"\" id=\"plannerSiderBar\" class=\"e-control e-sidebar e-lib e-left e-open e-transition e-push\" style=\"width: auto; z-index: 1000;\" tabindex=\"0\">",
           "target": [
             "#plannerSiderBar"
           ]
@@ -6109,7 +6109,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" id=\"github\" class=\"sb-github-btn\"><div _ngcontent-vvf-c81=\"\" class=\"github-image\"><img _ngcontent-vvf-c81=\"\" src=\"./assets/Icons/Mark.svg\"></div></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" id=\"github\" class=\"sb-github-btn\"><div _ngcontent-nek-c81=\"\" class=\"github-image\"><img _ngcontent-nek-c81=\"\" src=\"./assets/Icons/Mark.svg\"></div></div>",
           "target": [
             "#github"
           ]
@@ -6392,7 +6392,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h1 _ngcontent-vvf-c81=\"\" class=\"clinic-name\"> APPOINTMENT PLANNER</h1>",
+          "html": "<h1 _ngcontent-nek-c81=\"\" class=\"clinic-name\"> APPOINTMENT PLANNER</h1>",
           "target": [
             "h1"
           ]
@@ -6693,7 +6693,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h1 _ngcontent-vvf-c81=\"\" class=\"clinic-name\"> APPOINTMENT PLANNER</h1>",
+          "html": "<h1 _ngcontent-nek-c81=\"\" class=\"clinic-name\"> APPOINTMENT PLANNER</h1>",
           "target": [
             "h1"
           ]
@@ -6989,7 +6989,7 @@
             }
           ],
           "impact": null,
-          "html": "<img _ngcontent-vvf-c81=\"\" src=\"./assets/images/Admin.png\">",
+          "html": "<img _ngcontent-nek-c81=\"\" src=\"./assets/images/Admin.png\">",
           "target": [
             "img[src$=\"Admin.png\"]"
           ]
@@ -7007,7 +7007,7 @@
             }
           ],
           "impact": null,
-          "html": "<img _ngcontent-vvf-c81=\"\" src=\"./assets/Icons/Mark.svg\">",
+          "html": "<img _ngcontent-nek-c81=\"\" src=\"./assets/Icons/Mark.svg\">",
           "target": [
             "img[src$=\"Mark.svg\"]"
           ]
@@ -7700,7 +7700,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<main _ngcontent-vvf-c81=\"\" class=\"e-content-animation\" style=\"transform: translateX(0px); margin-left: 243px;\">",
+          "html": "<main _ngcontent-nek-c81=\"\" class=\"e-content-animation\" style=\"transform: translateX(0px); margin-left: 243px;\">",
           "target": [
             "main"
           ]
@@ -7762,7 +7762,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<main _ngcontent-vvf-c81=\"\" class=\"e-content-animation\" style=\"transform: translateX(0px); margin-left: 243px;\">",
+          "html": "<main _ngcontent-nek-c81=\"\" class=\"e-content-animation\" style=\"transform: translateX(0px); margin-left: 243px;\">",
           "target": [
             "main"
           ]
@@ -7827,7 +7827,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<main _ngcontent-vvf-c81=\"\" class=\"e-content-animation\" style=\"transform: translateX(0px); margin-left: 243px;\">",
+          "html": "<main _ngcontent-nek-c81=\"\" class=\"e-content-animation\" style=\"transform: translateX(0px); margin-left: 243px;\">",
           "target": [
             "main"
           ]
@@ -7923,7 +7923,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<img _ngcontent-vvf-c81=\"\" src=\"./assets/images/Admin.png\">",
+          "html": "<img _ngcontent-nek-c81=\"\" src=\"./assets/images/Admin.png\">",
           "target": [
             "img[src$=\"Admin.png\"]"
           ]
@@ -7941,7 +7941,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<img _ngcontent-vvf-c81=\"\" src=\"./assets/Icons/Mark.svg\">",
+          "html": "<img _ngcontent-nek-c81=\"\" src=\"./assets/Icons/Mark.svg\">",
           "target": [
             "img[src$=\"Mark.svg\"]"
           ]
@@ -8259,7 +8259,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<app-main _nghost-vvf-c81=\"\">",
+          "html": "<app-main _nghost-nek-c81=\"\">",
           "target": [
             "app-main"
           ]
@@ -8279,7 +8279,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" class=\"planner-wrapper\">",
+          "html": "<div _ngcontent-nek-c81=\"\" class=\"planner-wrapper\">",
           "target": [
             ".planner-wrapper"
           ]
@@ -8299,7 +8299,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" class=\"dock\">",
+          "html": "<div _ngcontent-nek-c81=\"\" class=\"dock\">",
           "target": [
             ".dock"
           ]
@@ -8319,7 +8319,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" class=\"info align-center\">",
+          "html": "<div _ngcontent-nek-c81=\"\" class=\"info align-center\">",
           "target": [
             ".info"
           ]
@@ -8339,7 +8339,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" class=\"image\"><img _ngcontent-vvf-c81=\"\" src=\"./assets/images/Admin.png\"></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" class=\"image\"><img _ngcontent-nek-c81=\"\" src=\"./assets/images/Admin.png\"></div>",
           "target": [
             ".image"
           ]
@@ -8359,7 +8359,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<img _ngcontent-vvf-c81=\"\" src=\"./assets/images/Admin.png\">",
+          "html": "<img _ngcontent-nek-c81=\"\" src=\"./assets/images/Admin.png\">",
           "target": [
             "img[src$=\"Admin.png\"]"
           ]
@@ -8379,7 +8379,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" class=\"content nameContent\"><p _ngcontent-vvf-c81=\"\" class=\"name\" style=\"margin-top: 16px;\">Jane Doe</p><p _ngcontent-vvf-c81=\"\" class=\"user-type\">Admin</p></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" class=\"content nameContent\"><p _ngcontent-nek-c81=\"\" class=\"name\" style=\"margin-top: 16px;\">Jane Doe</p><p _ngcontent-nek-c81=\"\" class=\"user-type\">Admin</p></div>",
           "target": [
             ".content"
           ]
@@ -8399,7 +8399,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p _ngcontent-vvf-c81=\"\" class=\"name\" style=\"margin-top: 16px;\">Jane Doe</p>",
+          "html": "<p _ngcontent-nek-c81=\"\" class=\"name\" style=\"margin-top: 16px;\">Jane Doe</p>",
           "target": [
             "p:nth-child(1)"
           ]
@@ -8419,7 +8419,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<p _ngcontent-vvf-c81=\"\" class=\"user-type\">Admin</p>",
+          "html": "<p _ngcontent-nek-c81=\"\" class=\"user-type\">Admin</p>",
           "target": [
             ".user-type"
           ]
@@ -8439,7 +8439,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" routerlink=\"/dashboard\" class=\"sidebar-item dashboard\" tabindex=\"0\">",
+          "html": "<div _ngcontent-nek-c81=\"\" routerlink=\"/dashboard\" class=\"sidebar-item dashboard\" tabindex=\"0\">",
           "target": [
             ".dashboard"
           ]
@@ -8459,7 +8459,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"dashboard-image\"><span _ngcontent-vvf-c81=\"\" class=\"icon-dashboard item-image\"></span></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"dashboard-image\"><span _ngcontent-nek-c81=\"\" class=\"icon-dashboard item-image\"></span></span>",
           "target": [
             ".dashboard-image"
           ]
@@ -8479,7 +8479,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"icon-dashboard item-image\"></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"icon-dashboard item-image\"></span>",
           "target": [
             ".icon-dashboard"
           ]
@@ -8499,7 +8499,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" title=\"dashboard\" class=\"text\">Dashboard</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" title=\"dashboard\" class=\"text\">Dashboard</span>",
           "target": [
             "span[title=\"dashboard\"]"
           ]
@@ -8519,7 +8519,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" routerlink=\"/calendar\" class=\"sidebar-item calendar\" tabindex=\"0\"><span _ngcontent-vvf-c81=\"\" class=\"scheduler-image\"><span _ngcontent-vvf-c81=\"\" class=\"icon-schedule item-image\"></span></span><span _ngcontent-vvf-c81=\"\" title=\"calendar\" class=\"text\">Schedule</span></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" routerlink=\"/calendar\" class=\"sidebar-item calendar\" tabindex=\"0\"><span _ngcontent-nek-c81=\"\" class=\"scheduler-image\"><span _ngcontent-nek-c81=\"\" class=\"icon-schedule item-image\"></span></span><span _ngcontent-nek-c81=\"\" title=\"calendar\" class=\"text\">Schedule</span></div>",
           "target": [
             ".calendar"
           ]
@@ -8539,7 +8539,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"scheduler-image\"><span _ngcontent-vvf-c81=\"\" class=\"icon-schedule item-image\"></span></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"scheduler-image\"><span _ngcontent-nek-c81=\"\" class=\"icon-schedule item-image\"></span></span>",
           "target": [
             ".scheduler-image"
           ]
@@ -8559,7 +8559,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"icon-schedule item-image\"></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"icon-schedule item-image\"></span>",
           "target": [
             ".icon-schedule"
           ]
@@ -8579,7 +8579,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" title=\"calendar\" class=\"text\">Schedule</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" title=\"calendar\" class=\"text\">Schedule</span>",
           "target": [
             "span[title=\"calendar\"]"
           ]
@@ -8599,7 +8599,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" routerlink=\"/doctors\" class=\"sidebar-item doctors active-item\" tabindex=\"0\">",
+          "html": "<div _ngcontent-nek-c81=\"\" routerlink=\"/doctors\" class=\"sidebar-item doctors active-item\" tabindex=\"0\">",
           "target": [
             ".doctors"
           ]
@@ -8619,7 +8619,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"doctors-image\"><span _ngcontent-vvf-c81=\"\" class=\"icon-doctors item-image\"></span></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"doctors-image\"><span _ngcontent-nek-c81=\"\" class=\"icon-doctors item-image\"></span></span>",
           "target": [
             ".doctors-image"
           ]
@@ -8639,7 +8639,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"icon-doctors item-image\"></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"icon-doctors item-image\"></span>",
           "target": [
             ".icon-doctors"
           ]
@@ -8659,7 +8659,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" title=\"doctors\" class=\"text\">Doctors</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" title=\"doctors\" class=\"text\">Doctors</span>",
           "target": [
             "span[title=\"doctors\"]"
           ]
@@ -8679,7 +8679,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" routerlink=\"/patients\" class=\"sidebar-item patients\" tabindex=\"0\"><span _ngcontent-vvf-c81=\"\" class=\"patients-image\"><span _ngcontent-vvf-c81=\"\" class=\"icon-patients item-image\"></span></span><span _ngcontent-vvf-c81=\"\" title=\"patients\" class=\"text\">Patients</span></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" routerlink=\"/patients\" class=\"sidebar-item patients\" tabindex=\"0\"><span _ngcontent-nek-c81=\"\" class=\"patients-image\"><span _ngcontent-nek-c81=\"\" class=\"icon-patients item-image\"></span></span><span _ngcontent-nek-c81=\"\" title=\"patients\" class=\"text\">Patients</span></div>",
           "target": [
             ".patients"
           ]
@@ -8699,7 +8699,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"patients-image\"><span _ngcontent-vvf-c81=\"\" class=\"icon-patients item-image\"></span></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"patients-image\"><span _ngcontent-nek-c81=\"\" class=\"icon-patients item-image\"></span></span>",
           "target": [
             ".patients-image"
           ]
@@ -8719,7 +8719,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"icon-patients item-image\"></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"icon-patients item-image\"></span>",
           "target": [
             ".icon-patients"
           ]
@@ -8739,7 +8739,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" title=\"patients\" class=\"text\">Patients</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" title=\"patients\" class=\"text\">Patients</span>",
           "target": [
             "span[title=\"patients\"]"
           ]
@@ -8759,7 +8759,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" routerlink=\"/preference\" class=\"sidebar-item preference\" tabindex=\"0\">",
+          "html": "<div _ngcontent-nek-c81=\"\" routerlink=\"/preference\" class=\"sidebar-item preference\" tabindex=\"0\">",
           "target": [
             ".preference"
           ]
@@ -8779,7 +8779,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"preference-image\"><span _ngcontent-vvf-c81=\"\" class=\"icon-preference item-image\"></span></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"preference-image\"><span _ngcontent-nek-c81=\"\" class=\"icon-preference item-image\"></span></span>",
           "target": [
             ".preference-image"
           ]
@@ -8799,7 +8799,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"icon-preference item-image\"></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"icon-preference item-image\"></span>",
           "target": [
             ".icon-preference"
           ]
@@ -8819,7 +8819,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" title=\"preference\" class=\"text\">Preference</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" title=\"preference\" class=\"text\">Preference</span>",
           "target": [
             "span[title=\"preference\"]"
           ]
@@ -8839,7 +8839,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" routerlink=\"/about\" class=\"sidebar-item about\" tabindex=\"0\"><span _ngcontent-vvf-c81=\"\" class=\"about-image\"><span _ngcontent-vvf-c81=\"\" class=\"icon-about item-image\"></span></span><span _ngcontent-vvf-c81=\"\" title=\"about\" class=\"text\">About</span></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" routerlink=\"/about\" class=\"sidebar-item about\" tabindex=\"0\"><span _ngcontent-nek-c81=\"\" class=\"about-image\"><span _ngcontent-nek-c81=\"\" class=\"icon-about item-image\"></span></span><span _ngcontent-nek-c81=\"\" title=\"about\" class=\"text\">About</span></div>",
           "target": [
             ".about"
           ]
@@ -8859,7 +8859,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"about-image\"><span _ngcontent-vvf-c81=\"\" class=\"icon-about item-image\"></span></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"about-image\"><span _ngcontent-nek-c81=\"\" class=\"icon-about item-image\"></span></span>",
           "target": [
             ".about-image"
           ]
@@ -8879,7 +8879,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"icon-about item-image\"></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"icon-about item-image\"></span>",
           "target": [
             ".icon-about"
           ]
@@ -8899,7 +8899,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" title=\"about\" class=\"text\">About</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" title=\"about\" class=\"text\">About</span>",
           "target": [
             "span[title=\"about\"]"
           ]
@@ -8919,7 +8919,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<main _ngcontent-vvf-c81=\"\" class=\"e-content-animation\" style=\"transform: translateX(0px); margin-left: 243px;\">",
+          "html": "<main _ngcontent-nek-c81=\"\" class=\"e-content-animation\" style=\"transform: translateX(0px); margin-left: 243px;\">",
           "target": [
             "main"
           ]
@@ -8939,7 +8939,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" class=\"planner-header\">",
+          "html": "<div _ngcontent-nek-c81=\"\" class=\"planner-header\">",
           "target": [
             ".planner-header"
           ]
@@ -8959,7 +8959,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" class=\"name-cantainer\"><span _ngcontent-vvf-c81=\"\" class=\"clinic-image icon-logo\"></span><h1 _ngcontent-vvf-c81=\"\" class=\"clinic-name\"> APPOINTMENT PLANNER</h1></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" class=\"name-cantainer\"><span _ngcontent-nek-c81=\"\" class=\"clinic-image icon-logo\"></span><h1 _ngcontent-nek-c81=\"\" class=\"clinic-name\"> APPOINTMENT PLANNER</h1></div>",
           "target": [
             ".name-cantainer"
           ]
@@ -8979,7 +8979,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"clinic-image icon-logo\"></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"clinic-image icon-logo\"></span>",
           "target": [
             ".clinic-image"
           ]
@@ -8999,7 +8999,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<h1 _ngcontent-vvf-c81=\"\" class=\"clinic-name\"> APPOINTMENT PLANNER</h1>",
+          "html": "<h1 _ngcontent-nek-c81=\"\" class=\"clinic-name\"> APPOINTMENT PLANNER</h1>",
           "target": [
             "h1"
           ]
@@ -9019,7 +9019,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" class=\"logout-container\"><div _ngcontent-vvf-c81=\"\" class=\"logout-icon-container\"><span _ngcontent-vvf-c81=\"\" class=\"icon-logout logout-image\"></span></div><span _ngcontent-vvf-c81=\"\" class=\"logout-name\">Logout</span></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" class=\"logout-container\"><div _ngcontent-nek-c81=\"\" class=\"logout-icon-container\"><span _ngcontent-nek-c81=\"\" class=\"icon-logout logout-image\"></span></div><span _ngcontent-nek-c81=\"\" class=\"logout-name\">Logout</span></div>",
           "target": [
             ".logout-container"
           ]
@@ -9039,7 +9039,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" class=\"logout-icon-container\"><span _ngcontent-vvf-c81=\"\" class=\"icon-logout logout-image\"></span></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" class=\"logout-icon-container\"><span _ngcontent-nek-c81=\"\" class=\"icon-logout logout-image\"></span></div>",
           "target": [
             ".logout-icon-container"
           ]
@@ -9059,7 +9059,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"icon-logout logout-image\"></span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"icon-logout logout-image\"></span>",
           "target": [
             ".icon-logout"
           ]
@@ -9079,7 +9079,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"logout-name\">Logout</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"logout-name\">Logout</span>",
           "target": [
             ".logout-name"
           ]
@@ -9099,7 +9099,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" class=\"sb-header-item sb-table-cell sb-download-wrapper\">",
+          "html": "<div _ngcontent-nek-c81=\"\" class=\"sb-header-item sb-table-cell sb-download-wrapper\">",
           "target": [
             ".sb-header-item"
           ]
@@ -9119,7 +9119,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<a _ngcontent-vvf-c81=\"\" href=\"https://github.com/syncfusion/ej2-showcase-angular-appointment-planner\" target=\"_blank\">",
+          "html": "<a _ngcontent-nek-c81=\"\" href=\"https://github.com/syncfusion/ej2-showcase-angular-appointment-planner\" target=\"_blank\">",
           "target": [
             "a"
           ]
@@ -9139,7 +9139,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" id=\"github\" class=\"sb-github-btn\"><div _ngcontent-vvf-c81=\"\" class=\"github-image\"><img _ngcontent-vvf-c81=\"\" src=\"./assets/Icons/Mark.svg\"></div></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" id=\"github\" class=\"sb-github-btn\"><div _ngcontent-nek-c81=\"\" class=\"github-image\"><img _ngcontent-nek-c81=\"\" src=\"./assets/Icons/Mark.svg\"></div></div>",
           "target": [
             "#github"
           ]
@@ -9159,7 +9159,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" class=\"github-image\"><img _ngcontent-vvf-c81=\"\" src=\"./assets/Icons/Mark.svg\"></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" class=\"github-image\"><img _ngcontent-nek-c81=\"\" src=\"./assets/Icons/Mark.svg\"></div>",
           "target": [
             ".github-image"
           ]
@@ -9179,7 +9179,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<img _ngcontent-vvf-c81=\"\" src=\"./assets/Icons/Mark.svg\">",
+          "html": "<img _ngcontent-nek-c81=\"\" src=\"./assets/Icons/Mark.svg\">",
           "target": [
             "img[src$=\"Mark.svg\"]"
           ]
@@ -9199,7 +9199,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<router-outlet _ngcontent-vvf-c81=\"\"></router-outlet>",
+          "html": "<router-outlet _ngcontent-nek-c81=\"\"></router-outlet>",
           "target": [
             "router-outlet"
           ]
@@ -13270,7 +13270,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<ejs-sidebar _ngcontent-vvf-c81=\"\" id=\"plannerSiderBar\" class=\"e-control e-sidebar e-lib e-left e-open e-transition e-push\" style=\"width: auto; z-index: 1000;\" tabindex=\"0\">",
+          "html": "<ejs-sidebar _ngcontent-nek-c81=\"\" id=\"plannerSiderBar\" class=\"e-control e-sidebar e-lib e-left e-open e-transition e-push\" style=\"width: auto; z-index: 1000;\" tabindex=\"0\">",
           "target": [
             "#plannerSiderBar"
           ]
@@ -13288,7 +13288,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" routerlink=\"/dashboard\" class=\"sidebar-item dashboard\" tabindex=\"0\">",
+          "html": "<div _ngcontent-nek-c81=\"\" routerlink=\"/dashboard\" class=\"sidebar-item dashboard\" tabindex=\"0\">",
           "target": [
             ".dashboard"
           ]
@@ -13306,7 +13306,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" routerlink=\"/calendar\" class=\"sidebar-item calendar\" tabindex=\"0\"><span _ngcontent-vvf-c81=\"\" class=\"scheduler-image\"><span _ngcontent-vvf-c81=\"\" class=\"icon-schedule item-image\"></span></span><span _ngcontent-vvf-c81=\"\" title=\"calendar\" class=\"text\">Schedule</span></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" routerlink=\"/calendar\" class=\"sidebar-item calendar\" tabindex=\"0\"><span _ngcontent-nek-c81=\"\" class=\"scheduler-image\"><span _ngcontent-nek-c81=\"\" class=\"icon-schedule item-image\"></span></span><span _ngcontent-nek-c81=\"\" title=\"calendar\" class=\"text\">Schedule</span></div>",
           "target": [
             ".calendar"
           ]
@@ -13324,7 +13324,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" routerlink=\"/doctors\" class=\"sidebar-item doctors active-item\" tabindex=\"0\">",
+          "html": "<div _ngcontent-nek-c81=\"\" routerlink=\"/doctors\" class=\"sidebar-item doctors active-item\" tabindex=\"0\">",
           "target": [
             ".doctors"
           ]
@@ -13342,7 +13342,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" routerlink=\"/patients\" class=\"sidebar-item patients\" tabindex=\"0\"><span _ngcontent-vvf-c81=\"\" class=\"patients-image\"><span _ngcontent-vvf-c81=\"\" class=\"icon-patients item-image\"></span></span><span _ngcontent-vvf-c81=\"\" title=\"patients\" class=\"text\">Patients</span></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" routerlink=\"/patients\" class=\"sidebar-item patients\" tabindex=\"0\"><span _ngcontent-nek-c81=\"\" class=\"patients-image\"><span _ngcontent-nek-c81=\"\" class=\"icon-patients item-image\"></span></span><span _ngcontent-nek-c81=\"\" title=\"patients\" class=\"text\">Patients</span></div>",
           "target": [
             ".patients"
           ]
@@ -13360,7 +13360,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" routerlink=\"/preference\" class=\"sidebar-item preference\" tabindex=\"0\">",
+          "html": "<div _ngcontent-nek-c81=\"\" routerlink=\"/preference\" class=\"sidebar-item preference\" tabindex=\"0\">",
           "target": [
             ".preference"
           ]
@@ -13378,7 +13378,7 @@
           "all": [],
           "none": [],
           "impact": null,
-          "html": "<div _ngcontent-vvf-c81=\"\" routerlink=\"/about\" class=\"sidebar-item about\" tabindex=\"0\"><span _ngcontent-vvf-c81=\"\" class=\"about-image\"><span _ngcontent-vvf-c81=\"\" class=\"icon-about item-image\"></span></span><span _ngcontent-vvf-c81=\"\" title=\"about\" class=\"text\">About</span></div>",
+          "html": "<div _ngcontent-nek-c81=\"\" routerlink=\"/about\" class=\"sidebar-item about\" tabindex=\"0\"><span _ngcontent-nek-c81=\"\" class=\"about-image\"><span _ngcontent-nek-c81=\"\" class=\"icon-about item-image\"></span></span><span _ngcontent-nek-c81=\"\" title=\"about\" class=\"text\">About</span></div>",
           "target": [
             ".about"
           ]
@@ -14177,7 +14177,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<ejs-sidebar _ngcontent-vvf-c81=\"\" id=\"plannerSiderBar\" class=\"e-control e-sidebar e-lib e-left e-open e-transition e-push\" style=\"width: auto; z-index: 1000;\" tabindex=\"0\">",
+                  "html": "<ejs-sidebar _ngcontent-nek-c81=\"\" id=\"plannerSiderBar\" class=\"e-control e-sidebar e-lib e-left e-open e-transition e-push\" style=\"width: auto; z-index: 1000;\" tabindex=\"0\">",
                   "target": [
                     "#plannerSiderBar"
                   ]
@@ -14190,7 +14190,7 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<p _ngcontent-vvf-c81=\"\" class=\"user-type\">Admin</p>",
+          "html": "<p _ngcontent-nek-c81=\"\" class=\"user-type\">Admin</p>",
           "target": [
             ".user-type"
           ]
@@ -14210,7 +14210,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<div _ngcontent-vvf-c81=\"\" routerlink=\"/doctors\" class=\"sidebar-item doctors active-item\" tabindex=\"0\">",
+                  "html": "<div _ngcontent-nek-c81=\"\" routerlink=\"/doctors\" class=\"sidebar-item doctors active-item\" tabindex=\"0\">",
                   "target": [
                     ".doctors"
                   ]
@@ -14223,7 +14223,7 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<span _ngcontent-vvf-c81=\"\" title=\"doctors\" class=\"text\">Doctors</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" title=\"doctors\" class=\"text\">Doctors</span>",
           "target": [
             "span[title=\"doctors\"]"
           ]
@@ -14243,7 +14243,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<div _ngcontent-vvf-c81=\"\" class=\"planner-header\">",
+                  "html": "<div _ngcontent-nek-c81=\"\" class=\"planner-header\">",
                   "target": [
                     ".planner-header"
                   ]
@@ -14256,7 +14256,7 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<h1 _ngcontent-vvf-c81=\"\" class=\"clinic-name\"> APPOINTMENT PLANNER</h1>",
+          "html": "<h1 _ngcontent-nek-c81=\"\" class=\"clinic-name\"> APPOINTMENT PLANNER</h1>",
           "target": [
             "h1"
           ]
@@ -14276,7 +14276,7 @@
               },
               "relatedNodes": [
                 {
-                  "html": "<div _ngcontent-vvf-c81=\"\" class=\"planner-header\">",
+                  "html": "<div _ngcontent-nek-c81=\"\" class=\"planner-header\">",
                   "target": [
                     ".planner-header"
                   ]
@@ -14289,7 +14289,7 @@
           "all": [],
           "none": [],
           "impact": "serious",
-          "html": "<span _ngcontent-vvf-c81=\"\" class=\"logout-name\">Logout</span>",
+          "html": "<span _ngcontent-nek-c81=\"\" class=\"logout-name\">Logout</span>",
           "target": [
             ".logout-name"
           ]
@@ -14498,7 +14498,7 @@
           "all": [],
           "none": [],
           "impact": "critical",
-          "html": "<img _ngcontent-vvf-c81=\"\" src=\"./assets/images/Admin.png\">",
+          "html": "<img _ngcontent-nek-c81=\"\" src=\"./assets/images/Admin.png\">",
           "target": [
             "img[src$=\"Admin.png\"]"
           ]
@@ -14546,7 +14546,7 @@
           "all": [],
           "none": [],
           "impact": "critical",
-          "html": "<img _ngcontent-vvf-c81=\"\" src=\"./assets/Icons/Mark.svg\">",
+          "html": "<img _ngcontent-nek-c81=\"\" src=\"./assets/Icons/Mark.svg\">",
           "target": [
             "img[src$=\"Mark.svg\"]"
           ]
@@ -14822,7 +14822,7 @@
             }
           ],
           "impact": "serious",
-          "html": "<a _ngcontent-vvf-c81=\"\" href=\"https://github.com/syncfusion/ej2-showcase-angular-appointment-planner\" target=\"_blank\">",
+          "html": "<a _ngcontent-nek-c81=\"\" href=\"https://github.com/syncfusion/ej2-showcase-angular-appointment-planner\" target=\"_blank\">",
           "target": [
             "a"
           ]
@@ -14855,7 +14855,7 @@
           "all": [],
           "none": [],
           "impact": "moderate",
-          "html": "<ejs-sidebar _ngcontent-vvf-c81=\"\" id=\"plannerSiderBar\" class=\"e-control e-sidebar e-lib e-left e-open e-transition e-push\" style=\"width: auto; z-index: 1000;\" tabindex=\"0\">",
+          "html": "<ejs-sidebar _ngcontent-nek-c81=\"\" id=\"plannerSiderBar\" class=\"e-control e-sidebar e-lib e-left e-open e-transition e-push\" style=\"width: auto; z-index: 1000;\" tabindex=\"0\">",
           "target": [
             "#plannerSiderBar"
           ]
